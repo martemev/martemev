@@ -14,12 +14,18 @@
 
 ### 🛠️ Tecnologias que estou estudando
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Counter-Strike_2_Logo.png/512px-Counter-Strike_2_Logo.png" width="180"/>
+<br>
+
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg" width="500"/>
+
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/6bl6dq4apceqd77wjl1lkaq1e">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6bl6dq4apceqd77wjl1lkaq1e&count=3" alt="Spotify recently played"  />
   </a>
+
+  
 </div>
 
 
