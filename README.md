@@ -1,4 +1,3 @@
-### Eai, eu sou o Pietro Martemev
 
 <img src="" alt="Descrição da imagem">
 
@@ -16,7 +15,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Counter--Strike%202-CS2-orange?style=for-the-badge&logo=counterstrike&logoColor=white"/>
+<a href="https://steamcommunity.com/id/PPX1/" target="_blank">
+  <img src="https://img.shields.io/badge/Counter--Strike%202-CS2-orange?style=for-the-badge&logo=counterstrike&logoColor=white"/>
+</a>
 
 </div>
 
