@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Counter-Strike_2_icon.png" width="120"/>
+<img src="https://img.shields.io/badge/CS2-orange?style=flat-square&logo=counterstrike&logoColor=white"/>
 
 </div>
 
