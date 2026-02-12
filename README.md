@@ -16,20 +16,14 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,html,css" height="55"/>
-
-<br>
-
 <a href="https://steamcommunity.com/id/PPX1/" target="_blank">
-  <img 
-    src="https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/512x512.png"
-    height="60"
-    style="border-radius: 14px;"
-  />
+  <img src="https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/512x512.png" height="55"/>
 </a>
 
 </div>
 
 </div>
+<br> </br>
 
 <div align="center">
   <a href="https://open.spotify.com/user/6bl6dq4apceqd77wjl1lkaq1e">
