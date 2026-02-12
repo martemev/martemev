@@ -13,10 +13,11 @@
 
 ### 🛠️ Tecnologias que estou estudando
 
+
 <br>
 
 <a href="https://steamcommunity.com/id/PPX1/" target="_blank">
-  <img src="https://img.shields.io/badge/Counter--Strike%202-CS2-orange?style=for-the-badge&logo=counterstrike&logoColor=white"/>
+  <img src="counter-strike-source-icon-counter-strike-source-blue-css-steam-icon-png-clipart.webp" height="60"/>
 </a>
 
 </div>
