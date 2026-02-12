@@ -13,12 +13,16 @@
 
 ### 🛠️ Tecnologias que estou estudando
 
+<div align="center">
 
 <a href="https://steamcommunity.com/id/PPX1/" target="_blank">
   <img src="https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/512x512.png" height="70"/>
 </a>
 
-</div>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+
 </div>
 
 <div align="center">
