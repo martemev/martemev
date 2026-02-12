@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Counter-Strike_2_icon.png" width="120"/>
 
 </div>
 
