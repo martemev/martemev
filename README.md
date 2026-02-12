@@ -1,6 +1,4 @@
 
-<img src="" alt="Descrição da imagem">
-
 <div align="center">
 
 # 👋 E aí, eu sou o Pietro
