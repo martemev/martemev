@@ -14,12 +14,11 @@
 ### 🛠️ Tecnologias que estou estudando
 
 
-<br>
-
 <a href="https://steamcommunity.com/id/PPX1/" target="_blank">
-  <img src="counter-strike-source-icon-counter-strike-source-blue-css-steam-icon-png-clipart.webp" height="60"/>
+  <img src="https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/512x512.png" height="70"/>
 </a>
 
+</div>
 </div>
 
 <div align="center">
