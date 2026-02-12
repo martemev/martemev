@@ -14,7 +14,7 @@
 
 ### 🛠️ Tecnologias que estou estudando
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Counter-Strike_2_Logo.png/512px-Counter-Strike_2_Logo.png" width="180"/>
 
 <div align="center">
   <a href="https://open.spotify.com/user/6bl6dq4apceqd77wjl1lkaq1e">
