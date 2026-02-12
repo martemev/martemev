@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/CS2-orange?style=flat-square&logo=counterstrike&logoColor=white"/>
+<img src="https://img.shields.io/badge/Counter--Strike%202-CS2-orange?style=for-the-badge&logo=counterstrike&logoColor=white"/>
 
 </div>
 
